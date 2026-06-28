@@ -1,0 +1,24 @@
+{
+  "package": "halim_sft",
+  "version": 3,
+  "canonical_file": "halim_sft.zip",
+  "build_id": "12749e8d4290",
+  "created_at": "2026-06-28T05:36:54.157171+00:00",
+  "train_pairs": 3373,
+  "valid_pairs": 177,
+  "pairs_total": 3550,
+  "by_source": {
+    "council": 952,
+    "action_gold": 917,
+    "coevolution": 825,
+    "dialogue": 856
+  },
+  "raw_sources": {
+    "council": 2204,
+    "action_gold": 1051,
+    "coevolution": 825,
+    "dialogue": 856,
+    "total_raw": 4936
+  },
+  "upload_rule": "Always upload THIS halim_sft.zip from your tradingbot folder. Do not keep old copies in Downloads \u2014 delete them after upload. Re-run ./scripts/halim_colab_ready.sh before each Colab train."
+}

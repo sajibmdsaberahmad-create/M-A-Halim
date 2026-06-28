@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.log
+data/actions/
+data/coevolution/
+data/learn_cache/
+data/trading/experience_buffer.jsonl
+data/trading/council_training_dataset.jsonl
